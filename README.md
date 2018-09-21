@@ -1,5 +1,7 @@
 # SZE
 Code written for internship on the Quantum Szilard Engine
+
+
 The curious physicist's guide to Lisa's Szilard code
 
 20/09/2018
